@@ -1,0 +1,53 @@
+    1  PS1="$ "
+    2  history
+    3  cd Desktop
+    4  pwd
+    5  mkdir testfile
+    6  pwd
+    7  cd ~/Desktop/testfile/
+    8  pwd
+    9  nanos testfile.txt
+   10  nano testfile.txt
+   11  git init
+   12  nano testfile.txt
+   13  git add
+   14  git add testfile.txt 
+   15  git commit 
+   16  git status
+   17  history
+   18  cd ../guacamole/
+   19  pwd
+   20  ls
+   21  ls -a
+   22  ls 
+   23  nano instructions.txt 
+   24  git status
+   25  git diff
+   26  nano instructions.txt 
+   27  git add instructions.txt 
+   28  git commit 
+   29  git status
+   30  cat instructions.txt 
+   31  git diff
+   32  history
+   33  nano instructions.txt 
+   34  git diff
+   35  history
+   36  history > Day2_gitcommands1.txt
+   37  git add instructions.txt 
+   38  git commit
+   39  git commit -m "Looove Garlic"
+   40  git status
+   41  cd ~/Desktop/guacamole/
+   42  pw
+   43  pwd
+   44  git add instructions.txt 
+   45  nano instructions.txt 
+   46  git commit -m "Garlic Rules"
+   47  git log
+   48  git diff 63783c
+   49  git diff e3fde
+   50  git reset 63783
+   51  git log
+   52  histroy > Day2_gitcommands1.txt 
+   53  history > Day2_gitcommands1.txt 
